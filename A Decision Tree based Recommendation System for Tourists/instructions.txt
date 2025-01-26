@@ -1,0 +1,3 @@
+pip install graphviz
+pip install pydotplus
+pip install -U scikit-learn
